@@ -2,7 +2,7 @@
 My first repository of my first optional ALX project! In this project, completed on my third week at ALX, I was introduced to Vagrant and I started using a Linux operating system in a virtual enviroment.
 
 ## Contents
-* [0-hello_ubuntu: A text containing the output of the command `uname`] (./0-hello_ubuntu)
+* [0-hello_ubuntu: A text containing the output of the command `uname`](./0-hello_ubuntu)
 
 
 ## Author
